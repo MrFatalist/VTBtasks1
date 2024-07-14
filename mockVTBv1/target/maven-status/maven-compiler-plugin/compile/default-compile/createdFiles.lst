@@ -1,0 +1,5 @@
+org\emualtor\mock\dto\Mother.class
+org\emualtor\mock\config\KafkaConfig.class
+org\emualtor\mock\dto\UserMessage.class
+org\emualtor\mock\controller\MessagesController.class
+org\emualtor\mock\MockApplication.class
